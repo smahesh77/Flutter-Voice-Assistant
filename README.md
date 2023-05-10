@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-A voice assistand made with flutter and powered by the ChatGPT Api
+Standard voice to text converter made with flutter
 
